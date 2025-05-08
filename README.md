@@ -2,16 +2,15 @@
 ---
 
 
-Here’s a more "alive" version of your `README.md` with images and additional formatting for better engagement:
 
-````markdown
 # Library Management System
 
 ## Overview
 Welcome to the **Library Management System**! 📚✨  
-This system is designed to track **books**, **authors**, **patrons**, and **book loans** in a library. Using MySQL as the database backend, the system allows for operations like adding new books, registering patrons, and keeping track of which books are borrowed by which patrons.
+This system is designed to track **books**, **authors**, **patrons**, and **book loans** in a library. 
+Using MySQL as the database backend, the system allows for operations like adding new books, registering patrons, and keeping track of which books are borrowed by which patrons.
 
-![Library](https://via.placeholder.com/800x400.png?text=Library+Management+System)
+
 
 ## Database Structure
 The system is built around four primary tables:
@@ -69,7 +68,8 @@ Tracks book loans:
 ### ERD (Entity Relationship Diagram)
 Here's an overview of how the database tables are related:
 
-![ERD](https://via.placeholder.com/800x400.png?text=ERD+Library+Management+System)
+![image](https://github.com/user-attachments/assets/1d323d87-f6f0-4fd2-8c53-589460c3b789)
+
 
 ## Setup Instructions
 

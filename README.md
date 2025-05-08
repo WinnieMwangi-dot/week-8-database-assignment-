@@ -1,9 +1,8 @@
 # week-8-database-assignment-
 ---
-Here’s a sample `README.md` for your **Library Management System** project, including an explanation of the database structure and setup instructions:
 
-````markdown
-# Library Management System
+
+Library Management System
 
 ## Overview
 

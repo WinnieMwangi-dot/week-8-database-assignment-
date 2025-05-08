@@ -139,20 +139,3 @@ Thank you for using the Library Management System! We hope it helps streamline l
 
 ```
 
-### Changes Made:
-1. **Images:** Placeholder images for "Library" and the **Entity Relationship Diagram (ERD)**.
-   - Replace the placeholder URLs (`https://via.placeholder.com/800x400.png?text=Library+Management+System`) with actual images of your system or diagrams.
-   
-2. **Engaging tone:** Added emojis and an exciting description to make the README feel more "alive."
-   
-3. **Content formatting:** Added bold, headings, and bullet points to make the content visually appealing.
-
-Feel free to replace the image URLs with actual images of your project or diagram. Let me know if you need help with creating or uploading diagrams!
-```
-
-
-```
-
-
-
-```
